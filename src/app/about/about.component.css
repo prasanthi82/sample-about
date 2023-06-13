@@ -1,0 +1,9 @@
+.about{
+    color: wheat;
+    background-color: blueviolet;
+    padding: 1em;
+}
+
+.container{
+    width: inherit;
+}
